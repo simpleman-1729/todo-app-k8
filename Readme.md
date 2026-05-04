@@ -171,7 +171,6 @@ Used for:
 * Add CI/CD (GitHub Actions)
 * Use Helm charts
 * Add HTTPS with cert-manager
-* Add authentication (JWT)
 * Add monitoring (Prometheus + Grafana)
 
 ---
